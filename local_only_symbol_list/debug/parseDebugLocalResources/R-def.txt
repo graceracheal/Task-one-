@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable circle_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable notifications
+drawable pause
+drawable play
+id albumArtImageView
+id artistTextView
+id backButton
+id currentTimeTextView
+id nextButton
+id playPauseButton
+id playlistButton
+id previousButton
+id repeatButton
+id seekBar
+id shuffleButton
+id songTitleTextView
+id toolbar
+id totalTimeTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TASKONE
+style Theme.TaskOne
+xml backup_rules
+xml data_extraction_rules
